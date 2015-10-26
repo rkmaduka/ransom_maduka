@@ -1,0 +1,1 @@
+web: gunicorn ransom_maduka.wsgi --log-file -
